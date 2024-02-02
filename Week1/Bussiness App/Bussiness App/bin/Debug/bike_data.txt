@@ -1,0 +1,6 @@
+Bike Name: Cd70
+Price: 123
+Engine: 22
+Milage: 45
+Quantity: 12
+---------------------------------------

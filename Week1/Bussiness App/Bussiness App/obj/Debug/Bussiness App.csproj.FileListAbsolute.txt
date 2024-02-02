@@ -1,0 +1,7 @@
+D:\OOP\Bussiness App\Bussiness App\bin\Debug\Bussiness App.exe.config
+D:\OOP\Bussiness App\Bussiness App\bin\Debug\Bussiness App.exe
+D:\OOP\Bussiness App\Bussiness App\bin\Debug\Bussiness App.pdb
+D:\OOP\Bussiness App\Bussiness App\obj\Debug\Bussiness App.csproj.AssemblyReference.cache
+D:\OOP\Bussiness App\Bussiness App\obj\Debug\Bussiness App.csproj.CoreCompileInputs.cache
+D:\OOP\Bussiness App\Bussiness App\obj\Debug\Bussiness App.exe
+D:\OOP\Bussiness App\Bussiness App\obj\Debug\Bussiness App.pdb
