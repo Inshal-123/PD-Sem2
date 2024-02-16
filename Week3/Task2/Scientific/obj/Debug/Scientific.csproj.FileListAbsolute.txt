@@ -1,0 +1,7 @@
+D:\OOP\PD Sem2\Week3\Task2\Scientific\bin\Debug\Scientific.exe.config
+D:\OOP\PD Sem2\Week3\Task2\Scientific\bin\Debug\Scientific.exe
+D:\OOP\PD Sem2\Week3\Task2\Scientific\bin\Debug\Scientific.pdb
+D:\OOP\PD Sem2\Week3\Task2\Scientific\obj\Debug\Scientific.csproj.AssemblyReference.cache
+D:\OOP\PD Sem2\Week3\Task2\Scientific\obj\Debug\Scientific.csproj.CoreCompileInputs.cache
+D:\OOP\PD Sem2\Week3\Task2\Scientific\obj\Debug\Scientific.exe
+D:\OOP\PD Sem2\Week3\Task2\Scientific\obj\Debug\Scientific.pdb

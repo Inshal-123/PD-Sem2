@@ -1,0 +1,7 @@
+E:\CS 2nd Semester\PD\Tasks\week 3\Task4Book\Task4Book\bin\Debug\Task4Book.exe.config
+E:\CS 2nd Semester\PD\Tasks\week 3\Task4Book\Task4Book\bin\Debug\Task4Book.exe
+E:\CS 2nd Semester\PD\Tasks\week 3\Task4Book\Task4Book\bin\Debug\Task4Book.pdb
+E:\CS 2nd Semester\PD\Tasks\week 3\Task4Book\Task4Book\obj\Debug\Task4Book.csproj.AssemblyReference.cache
+E:\CS 2nd Semester\PD\Tasks\week 3\Task4Book\Task4Book\obj\Debug\Task4Book.csproj.CoreCompileInputs.cache
+E:\CS 2nd Semester\PD\Tasks\week 3\Task4Book\Task4Book\obj\Debug\Task4Book.exe
+E:\CS 2nd Semester\PD\Tasks\week 3\Task4Book\Task4Book\obj\Debug\Task4Book.pdb
