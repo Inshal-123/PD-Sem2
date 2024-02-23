@@ -5,3 +5,10 @@ E:\CS 2nd Semester\PD\Tasks\week 3\Task4Book\Task4Book\obj\Debug\Task4Book.cspro
 E:\CS 2nd Semester\PD\Tasks\week 3\Task4Book\Task4Book\obj\Debug\Task4Book.csproj.CoreCompileInputs.cache
 E:\CS 2nd Semester\PD\Tasks\week 3\Task4Book\Task4Book\obj\Debug\Task4Book.exe
 E:\CS 2nd Semester\PD\Tasks\week 3\Task4Book\Task4Book\obj\Debug\Task4Book.pdb
+D:\OOP\PD Sem2\Week3\Task4\Task4Book\bin\Debug\Task4Book.exe.config
+D:\OOP\PD Sem2\Week3\Task4\Task4Book\bin\Debug\Task4Book.exe
+D:\OOP\PD Sem2\Week3\Task4\Task4Book\bin\Debug\Task4Book.pdb
+D:\OOP\PD Sem2\Week3\Task4\Task4Book\obj\Debug\Task4Book.csproj.AssemblyReference.cache
+D:\OOP\PD Sem2\Week3\Task4\Task4Book\obj\Debug\Task4Book.csproj.CoreCompileInputs.cache
+D:\OOP\PD Sem2\Week3\Task4\Task4Book\obj\Debug\Task4Book.exe
+D:\OOP\PD Sem2\Week3\Task4\Task4Book\obj\Debug\Task4Book.pdb

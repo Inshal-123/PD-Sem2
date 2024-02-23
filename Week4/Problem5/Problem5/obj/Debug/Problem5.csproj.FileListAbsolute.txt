@@ -1,0 +1,20 @@
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 4\Problem5\Problem5\bin\Debug\Problem5.exe.config
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 4\Problem5\Problem5\bin\Debug\Problem5.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 4\Problem5\Problem5\bin\Debug\Problem5.pdb
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 4\Problem5\Problem5\bin\Debug\EZInput.dll
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 4\Problem5\Problem5\bin\Debug\EZInput.xml
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 4\Problem5\Problem5\obj\Debug\Problem5.csproj.AssemblyReference.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 4\Problem5\Problem5\obj\Debug\Problem5.csproj.CoreCompileInputs.cache
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 4\Problem5\Problem5\obj\Debug\Problem5.csproj.CopyComplete
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 4\Problem5\Problem5\obj\Debug\Problem5.exe
+A:\University Related\UET Lahore\2nd Semester\Programming Day\PD Week 4\Problem5\Problem5\obj\Debug\Problem5.pdb
+D:\OOP\PD Sem2\Week4\Problem5\Problem5\bin\Debug\Problem5.exe.config
+D:\OOP\PD Sem2\Week4\Problem5\Problem5\bin\Debug\Problem5.exe
+D:\OOP\PD Sem2\Week4\Problem5\Problem5\bin\Debug\Problem5.pdb
+D:\OOP\PD Sem2\Week4\Problem5\Problem5\bin\Debug\EZInput.dll
+D:\OOP\PD Sem2\Week4\Problem5\Problem5\bin\Debug\EZInput.xml
+D:\OOP\PD Sem2\Week4\Problem5\Problem5\obj\Debug\Problem5.csproj.AssemblyReference.cache
+D:\OOP\PD Sem2\Week4\Problem5\Problem5\obj\Debug\Problem5.csproj.CoreCompileInputs.cache
+D:\OOP\PD Sem2\Week4\Problem5\Problem5\obj\Debug\Problem5.csproj.CopyComplete
+D:\OOP\PD Sem2\Week4\Problem5\Problem5\obj\Debug\Problem5.exe
+D:\OOP\PD Sem2\Week4\Problem5\Problem5\obj\Debug\Problem5.pdb

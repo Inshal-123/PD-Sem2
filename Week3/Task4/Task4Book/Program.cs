@@ -12,20 +12,20 @@ namespace Task4Book
         {
             List<Book> bookList = new List<Book>();
 
-            Console.WriteLine("Welcome to Book Inventory Management System!");
+            Console.WriteLine("Welcome to Book Inventory Management System");
 
             int choice;
             do
             {
                 Console.WriteLine("\nMenu:");
-                Console.WriteLine("1. Add Book");
+                Console.WriteLine("1. Add a Book");
                 Console.WriteLine("2. View All Books Information");
-                Console.WriteLine("3. Get Author Details of a Specific Book");
-                Console.WriteLine("4. Sell Copies of a Specific Book");
+                Console.WriteLine("3. Get Author Details of a Book");
+                Console.WriteLine("4. Sell Copies of a Book");
                 Console.WriteLine("5. Restock a Specific Book");
-                Console.WriteLine("6. See the Count of the Books");
+                Console.WriteLine("6. Count of the Books");
                 Console.WriteLine("7. Exit");
-                Console.Write("Enter your choice: ");
+                Console.Write("Enter your option: ");
                 choice = int.Parse(Console.ReadLine());
 
                 switch (choice)
